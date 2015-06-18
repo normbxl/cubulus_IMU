@@ -1,4 +1,4 @@
-#6 DOF IMU wirless game controller
+#6 DOF IMU wireless game controller
 
 Cubulus was a student project of mine, which makes use of a cube-shaped controller with an integrated wireless IMU and a receiver. The IMU translates his rotation into a quaternion and transmits to the receiver who then sends it over the serial interface to the computer running Cubulus.  
 The game was made with Unity 3.4.2.  
